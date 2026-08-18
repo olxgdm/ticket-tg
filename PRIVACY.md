@@ -1,4 +1,3 @@
-````markdown
 # Privacy Policy
 
 ## Anaconda Ticket Tab Group
@@ -22,9 +21,7 @@ The visible Jira ticket title is used together with the ticket ID to construct t
 
 For example:
 
-```text
-PKG-17095 numpy 2.5.2
-```
+**PKG-17095 numpy 2.5.2**
 
 The ticket title is treated as an opaque string. The extension does not attempt to interpret package names, versions, or other information contained in the title.
 
@@ -32,7 +29,7 @@ The ticket title is treated as an opaque string. The extension does not attempt 
 
 The information accessed by the extension is used only to provide its single purpose:
 
-> Create a Chrome tab group for the active Anaconda Jira ticket and move the current ticket tab into that group.
+**Create a Chrome tab group for the active Anaconda Jira ticket and move the current ticket tab into that group.**
 
 The extension does not use the information for any unrelated purpose.
 
@@ -121,4 +118,3 @@ Any updated version will be published at the same public location and the "Last 
 Questions regarding this privacy policy may be submitted through the project's public GitHub repository:
 
 https://github.com/olxgdm/ticket-tg
-````
